@@ -23,8 +23,12 @@ Configure the path in the main.py file, run the main.py file to generate it, and
 
 
 ### Picture example
+![Image text](https://github.com/CodeAchieveDream/ocr_generate_text_data/blob/master/show/0.jpg)
 
+![Image text](https://github.com/CodeAchieveDream/ocr_generate_text_data/blob/master/show/7.jpg)
 
+![Image text](https://github.com/CodeAchieveDream/ocr_generate_text_data/blob/master/show/5.jpg)
 
+![Image text](https://github.com/CodeAchieveDream/ocr_generate_text_data/blob/master/show/4.jpg)
 
 
